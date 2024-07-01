@@ -1,1 +1,1 @@
-Hi, The game has deployed for web2 in mobile platform before. I refactored the code and added thirdweb wallet and smart contract integration.
+Hi, The game has deployed for web2 in mobile platform before. I refactored the code by changing the buttons removing redudant codes, changing code logic and added thirdweb wallet and smart contract integration.
